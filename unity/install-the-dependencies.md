@@ -1,0 +1,3 @@
+# Install the dependencies
+
+The justtrack SDK uses the [External Dependency Manager for Unity](https://github.com/googlesamples/unity-jar-resolver) from Google to download the justtrack SDK as well as its dependencies. You can select the correct version for you on [https://developers.google.com/unity/archive#external\_dependency\_manager\_for\_unity](https://developers.google.com/unity/archive#external\_dependency\_manager\_for\_unity) or directly download [https://github.com/googlesamples/unity-jar-resolver/raw/v1.2.175/external-dependency-manager-1.2.175.unitypackage](https://github.com/googlesamples/unity-jar-resolver/raw/v1.2.175/external-dependency-manager-1.2.175.unitypackage) to get the latest version. The justtrack SDK requires at least version 1.2.167.
